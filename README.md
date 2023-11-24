@@ -3,6 +3,7 @@
 **Author:** Wendi Li
 
 **Email:** ucfnlih@ucl.ac.uk
+
 **Date:** 24-11-2023
 
 **Project name:** Neighbourhood characteristics and social network segregation: exploring the temporal dynamics of social interactions in residential environments, Trentino
